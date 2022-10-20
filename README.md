@@ -11,8 +11,11 @@ I'm a computing engineer and I've been working as a software developer for 1 yea
 *   🧠  I'm learning Android development with Kotlin in deep
 *   🤝  I'm open to collaborating on native Android Apps
 ### Skills
-![My Skills]
-(https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,react" />
+  </a>
+</p>
                                 
 ### Socials
 <p align="left"> 
