@@ -13,7 +13,7 @@ I'm a computing engineer and I've been working as a software developer for 1 yea
 ### Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,react" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,react,git,github" />
   </a>
 </p>
                                 
