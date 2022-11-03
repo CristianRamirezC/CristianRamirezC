@@ -1,7 +1,7 @@
 Hi 👋 My name is Cristian Ramirez
 =================================
 
-Mobile Developer (React Native & Android w/ Kotlin)
+Mobile Developer (Android w/ Kotlin)
 ---------------------------------------------------
 
 I'm a computing engineer and I've been working as a software developer for 1 year, working with different technologies such as React, React Native, Kotlin, NodeJS, GraphQL, and SQL. I have a good enough English level so I can communicate properly with teams. (B2 Listening and C1 reading, based on EF SET certification which you can verify here: https://www.efset.org/cert/u1f9eh) Currently interested in continuing the path of mobile development of native Android apps with Kotlin.
