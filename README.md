@@ -15,7 +15,7 @@ I'm Currently interested in continuing the mobile development of native Android 
 ### Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,react,git,github" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,git,github" />
   </a>
 </p>
                                 
